@@ -5,7 +5,8 @@
   "description": "React dev utilities",
   "keywords": [],
   "activationCommands": {
-    "atom-text-editor": "react-utils:class-to-functional"
+    "atom-text-editor": "react-utils:class-to-functional",
+    "atom-text-editor": "react-utils:destructure-props"
   },
   "repository": "https://github.com/atom/react-utils",
   "license": "MIT",
