@@ -1,0 +1,42 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle",
+        "command": "react-utils:toggle"
+      },
+      {
+        "label": "Destructure Props",
+        "command": "react-utils:destructure-props"
+      },
+      {
+        "label": "Class to functional",
+        "command": "react-utils:class-to-functional"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "react-utils",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "react-utils:toggle"
+            },
+            {
+              "label": "Destructure Props",
+              "command": "react-utils:destructure-props"
+            },
+            {
+              "label": "Class to functional",
+              "command": "react-utils:class-to-functional"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "react-utils",
+  "main": "./lib/react-utils",
+  "version": "0.0.1",
+  "description": "React dev utilities",
+  "keywords": [],
+  "activationCommands": {
+    "atom-text-editor": "react-utils:class-to-functional"
+  },
+  "repository": "https://github.com/atom/react-utils",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
